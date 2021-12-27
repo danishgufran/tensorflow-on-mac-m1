@@ -13,8 +13,7 @@ This installation is based and tested for **macOS Monterey**:
 ```
  # Install Miniforge
  
- **Once you have installed Homebrew, I suggest closing the terminal window and opening a new one to complete the installation.
-**
+ **Once you have installed Homebrew, I suggest closing the terminal window and opening a new one to complete the installation.**
 Next, you should install the xcode-select command-line utilities. Use the following command to install:
 ```shell
 xcode-select --install
