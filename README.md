@@ -8,5 +8,5 @@ Is your Mac Intel or Apple Metal (ARM)? The newer Mac ARM M1-based machines have
 # Procedure
 # Install Brew Mac
 This installation is based and tested for **macOS Monterey**:
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
  
